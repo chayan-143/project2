@@ -1,5 +1,10 @@
 # New project uploaded soon
-just learning
+stil learning 
+java
+c
+html
+css
+js
 
  
 This project was created from local system..
